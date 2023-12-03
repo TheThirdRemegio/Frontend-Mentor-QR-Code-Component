@@ -10,16 +10,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+## Overview
+
+### Screenshot
 
 ![](./screenshot.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://thethirdremegio.github.io/Frontend-Mentor-QR-Code-Component/)
 
 ## My process
 
@@ -52,4 +54,4 @@ Thanks a lot to Frontend Mentor for encouraging me and others to dip their toes 
 
 Thanks also to Reddit's programming community who recommended Frontend Mentor time and time again.
 
-### Until next time! 👋
+Until next time! 👋
