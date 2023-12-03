@@ -1,0 +1,50 @@
+:root {
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+
+html, body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: grid;
+    place-content: center;
+    min-height: 100svh;
+    background-color: var(--light-gray);
+    font-family: 'Outfit', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.challenge {
+    width: 300px;
+    padding: 17px;
+    border-radius: 20px;
+    background-color: var(--white);
+    text-align: center;
+}
+
+.challenge img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+}
+
+.challenge h2 {
+    color: var(--dark-blue);
+}
+
+.challenge p {
+    color: var(--grayish-blue);
+}
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
